@@ -1,0 +1,38 @@
+/* Dark Theme */
+.stApp {
+    background-color: #0f172a;
+    color: #f8fafc;
+}
+
+.main .block-container {
+    background-color: #0f172a;
+}
+
+.stButton > button {
+    background-color: #1e3a8a;
+    color: white;
+    border: 1px solid #334155;
+}
+
+.stButton > button:hover {
+    background-color: #1e40af;
+    border-color: #475569;
+}
+
+.css-1d391kg {
+    background-color: #1e293b;
+    border: 1px solid #334155;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #f8fafc;
+}
+
+.stSelectbox, .stTextInput, .stNumberInput {
+    background-color: #1e293b;
+    border-color: #334155;
+}
+
+.stDataFrame {
+    background-color: #1e293b;
+}

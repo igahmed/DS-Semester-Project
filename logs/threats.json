@@ -1,0 +1,23 @@
+[
+  {
+    "threat_level": "high",
+    "score": 0.27796618828837005,
+    "confidence": 0.8279700668853929,
+    "features_used": 20,
+    "model_type": "isolation_forest"
+  },
+  {
+    "threat_level": "low",
+    "score": -0.2989920036013497,
+    "confidence": 0.9338174707560408,
+    "features_used": 20,
+    "model_type": "isolation_forest"
+  },
+  {
+    "threat_level": "high",
+    "score": 0.01793843410720808,
+    "confidence": 0.8789690595413225,
+    "features_used": 20,
+    "model_type": "isolation_forest"
+  }
+]

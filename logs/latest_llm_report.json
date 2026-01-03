@@ -1,0 +1,5 @@
+{
+  "severity": "High",
+  "anomaly_score": 0.95,
+  "llm_report": "<Human-readable incident description>\nA high severity incident has been detected. An unknown source has been scanning our network for open ports. Recommendation is to quarantine the source IP. Event description:\nThe following ports have been scanned: 21, 22, 80, 443.\n\nSeverity: High\n\nReason:\nUnauthorized access attempt\n\nRecommendation:\nINVESTIGATE\n [/INST]\n\n<Human-readable incident description>\nAn unauthorized user has attempted to log in to the database server. Recommendation:\nvestigate and change passwords. Event description:\nMultiple failed login attempts from an unknown"
+}

@@ -1,0 +1,77 @@
+/* Flask-style Professional Dashboard */
+.stApp {
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Card styling matching Flask */
+.css-1d391kg {
+    background: rgba(255, 255, 255, 0.1) !important;
+    backdrop-filter: blur(10px) !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    border-radius: 15px !important;
+    transition: transform 0.3s ease !important;
+}
+
+.css-1d391kg:hover {
+    transform: translateY(-5px) !important;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Flask-style buttons */
+.stButton > button {
+    background: #222 !important;
+    color: #00ff00 !important;
+    border: 1px solid #00ff00 !important;
+    border-radius: 6px !important;
+    font-family: 'Courier New', monospace !important;
+    transition: all 0.3s !important;
+}
+
+.stButton > button:hover {
+    background: #00ff00 !important;
+    color: #000 !important;
+}
+
+/* Terminal-style log display */
+.terminal-box {
+    background: #000 !important;
+    color: #00ff00 !important;
+    padding: 15px !important;
+    border: 1px solid #333 !important;
+    font-family: 'Courier New', monospace !important;
+    font-size: 14px !important;
+    border-radius: 5px !important;
+}
+
+/* Flask-style navbar */
+.st-emotion-cache-1avcm0n {
+    background: #343a40 !important;
+    border: none !important;
+}
+
+/* Threat level badges */
+.threat-badge-high { 
+    background-color: #dc3545 !important; 
+    color: white !important;
+    padding: 4px 12px !important;
+    border-radius: 20px !important;
+    font-weight: 600 !important;
+}
+
+.threat-badge-medium { 
+    background-color: #ffc107 !important; 
+    color: #000 !important;
+    padding: 4px 12px !important;
+    border-radius: 20px !important;
+    font-weight: 600 !important;
+}
+
+.threat-badge-low { 
+    background-color: #28a745 !important; 
+    color: white !important;
+    padding: 4px 12px !important;
+    border-radius: 20px !important;
+    font-weight: 600 !important;
+}

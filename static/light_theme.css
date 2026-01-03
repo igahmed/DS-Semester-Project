@@ -1,0 +1,28 @@
+/* Light Theme */
+.stApp {
+    background-color: #ffffff;
+    color: #1f2937;
+}
+
+.main .block-container {
+    background-color: #ffffff;
+}
+
+.stButton > button {
+    background-color: #3b82f6;
+    color: white;
+    border: 1px solid #e5e7eb;
+}
+
+.stButton > button:hover {
+    background-color: #2563eb;
+}
+
+.css-1d391kg {
+    background-color: #f9fafb;
+    border: 1px solid #e5e7eb;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #1f2937;
+}
